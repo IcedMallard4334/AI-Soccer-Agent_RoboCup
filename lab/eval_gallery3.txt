@@ -1,0 +1,10 @@
+== {"gk_speed":48.0,"gk_max":16.0}
+60 matches: 419 strikes, 46 goals, 11.0% scored (±1.5), 7.0 strikes per match
+== {"gk_speed":40.0,"gk_max":20.0}
+60 matches: 466 strikes, 53 goals, 11.4% scored (±1.5), 7.8 strikes per match
+== {"gk_speed":36.0,"gk_max":20.0}
+60 matches: 477 strikes, 52 goals, 10.9% scored (±1.4), 8.0 strikes per match
+== fresh seeds: base
+60 matches: 395 strikes, 115 goals, 29.1% scored (±2.3), 6.6 strikes per match
+== fresh seeds: 36/16
+60 matches: 414 strikes, 62 goals, 15.0% scored (±1.8), 6.9 strikes per match

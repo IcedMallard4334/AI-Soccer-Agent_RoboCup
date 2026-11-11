@@ -1,0 +1,5 @@
+ 748 pts  231- 55- 14  GD +655  {"budget": 1.0, "press2_x": -999.0, "contest_pen": 0.0, "sup_open": 0.15, "cover_dist": 11.0, "pos_prog": 0.15}  {'v9ref.py': '33-53-14', 'bus.py': '99-1-0', 'elite': '99-1-0'}
+ 737 pts  229- 50- 21  GD +633  {"budget": 1.0, "sup_open": 0.15, "cover_dist": 11.0, "pos_prog": 0.15}  {'v9ref.py': '36-44-20', 'bus.py': '99-1-0', 'elite': '94-5-1'}
+ 725 pts  221- 62- 17  GD +638  {"budget": 1.0, "press2_x": -999.0, "contest_pen": 0.0}  {'v9ref.py': '24-59-17', 'bus.py': '99-1-0', 'elite': '98-2-0'}
+ 713 pts  220- 53- 27  GD +616  {"budget": 1.0}  {'v9ref.py': '25-48-27', 'bus.py': '97-3-0', 'elite': '98-2-0'}
+wall 1001s, 1200 matches

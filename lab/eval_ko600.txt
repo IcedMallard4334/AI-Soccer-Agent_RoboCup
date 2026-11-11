@@ -1,0 +1,8 @@
+== base
+600 matches, goals 805-109
+our kickoffs   n= 409  we score within 300:   4.4%  they score:   0.2%  ours at +50:  98.8%  +100:  77.5%
+their kickoffs n=1105  we score within 300:   5.6%  they score:   0.2%  ours at +50:   0.0%  +100:  25.3%
+== ko layout 1
+600 matches, goals 839-111
+our kickoffs   n= 411  we score within 300:   6.3%  they score:   0.0%  ours at +50:  98.8%  +100:  72.7%
+their kickoffs n=1139  we score within 300:   5.4%  they score:   0.2%  ours at +50:   0.0%  +100:  25.1%

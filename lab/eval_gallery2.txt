@@ -1,0 +1,10 @@
+== {"gk_speed":36.0}
+60 matches: 407 strikes, 98 goals, 24.1% scored (±2.1), 6.8 strikes per match
+== {"gk_speed":40.0}
+60 matches: 426 strikes, 91 goals, 21.4% scored (±2.0), 7.1 strikes per match
+== {"gk_speed":48.0}
+60 matches: 441 strikes, 83 goals, 18.8% scored (±1.9), 7.3 strikes per match
+== {"gk_speed":36.0,"gk_max":16.0}
+60 matches: 447 strikes, 69 goals, 15.4% scored (±1.7), 7.5 strikes per match
+== {"gk_speed":36.0,"gk_r":2.3}
+60 matches: 407 strikes, 132 goals, 32.4% scored (±2.3), 6.8 strikes per match

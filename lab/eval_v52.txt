@@ -1,0 +1,5 @@
+ 271 pts   76- 43- 31  GD +167  {"budget": 1.0, "max_evals": 32, "xt_scale": 1.8}  {'v48cap.py': '5-13-12', 'v38cap.py': '9-11-10', 'v3.py': '13-8-9', 'midtable.py': '30-0-0', 'bus.py': '19-11-0'}
+ 268 pts   78- 34- 38  GD +158  {"budget": 1.0, "max_evals": 32}  {'v48cap.py': '5-8-17', 'v38cap.py': '8-11-11', 'v3.py': '13-7-10', 'midtable.py': '30-0-0', 'bus.py': '22-8-0'}
+wall 491s, 300 matches
+ 166 pts   53-  7-  0  GD +196  {"budget": 1.0, "max_evals": 32}  {'midtable.py': '30-0-0', 'bus.py': '23-7-0'}
+wall 51s, 60 matches

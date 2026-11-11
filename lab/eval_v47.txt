@@ -1,0 +1,2 @@
+ 400 pts  120- 40- 20  GD +287  {"budget": 1.0, "max_evals": 32}  {'v38cap.py': '8-18-4', 'midtable.py': '30-0-0', 'bus.py': '24-6-0', 'v3.py': '16-5-9', 'v1.py': '14-9-7', 'elite': '28-2-0'}
+wall 305s, 180 matches

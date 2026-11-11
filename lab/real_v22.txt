@@ -1,0 +1,11 @@
+opponent                                   W   D   L    GF   GA   errs fouls
+v18.py                                     7  12   1    12    3      0     0
+v21.py                                     4  13   3     6    5      3     0
+v14.py                                     6  13   1     7    2      0     0
+v9.py                                      5  13   2     6    3      0     0
+v3.py                                     12   5   3    23   12     10     0
+v1.py                                     14   3   3    22    9      0     0
+bus.py                                    16   4   0    24    0      0     0
+elite                                     20   0   0    62    0      3     0
+TOTAL                                     84  63  13   162   34   win%=52.5
+decision mean 1.940 ms, max 52.72 ms; wall 288.7s for 160 matches

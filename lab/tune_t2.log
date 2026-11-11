@@ -1,0 +1,20 @@
+gen 0  inc 101.0  best mutant 116.8  ACCEPT  sigma 1.30  (437s)
+   incumbent {"keep_bias": 1.5, "sig_keep": 2.5, "goal_bias": 0.5, "sig_goal": 2.0, "xt_scale": 2.5, "goal_units": 1.0, "lose_pen": 0.1, "r_get": 1.732, "hyst": 4.214, "sup_open": 0.15, "sup_lane": 0.12, "cover_dist": 11.0, "mark_goal_side": 2.0, "carry_lead": 1.9, "antic_t": 19.912, "la_k": 0.0}
+gen 1  inc 114.5  best mutant 125.3  ACCEPT  sigma 1.69  (431s)
+   incumbent {"keep_bias": 1.5, "sig_keep": 2.5, "goal_bias": 0.5, "sig_goal": 2.0, "xt_scale": 2.5, "goal_units": 1.0, "lose_pen": 0.089, "r_get": 1.732, "hyst": 4.214, "sup_open": 0.15, "sup_lane": 0.175, "cover_dist": 11.235, "mark_goal_side": 2.0, "carry_lead": 1.9, "antic_t": 19.51, "la_k": 0.0}
+gen 2  inc 101.3  best mutant 123.6  ACCEPT  sigma 2.00  (462s)
+   incumbent {"keep_bias": 1.5, "sig_keep": 2.5, "goal_bias": 2.067, "sig_goal": 2.0, "xt_scale": 2.5, "goal_units": 1.0, "lose_pen": 0.089, "r_get": 1.732, "hyst": 4.214, "sup_open": 0.15, "sup_lane": 0.175, "cover_dist": 11.235, "mark_goal_side": 2.424, "carry_lead": 1.9, "antic_t": 6.447, "la_k": 0.341}
+gen 3  inc 119.9  best mutant 127.2  ACCEPT  sigma 2.00  (379s)
+   incumbent {"keep_bias": 1.5, "sig_keep": 2.5, "goal_bias": 2.846, "sig_goal": 2.0, "xt_scale": 2.5, "goal_units": 1.0, "lose_pen": 0.089, "r_get": 1.803, "hyst": 4.214, "sup_open": 0.28, "sup_lane": 0.175, "cover_dist": 14.561, "mark_goal_side": 2.424, "carry_lead": 1.9, "antic_t": 6.447, "la_k": 0.341}
+gen 4  inc 111.2  best mutant 121.6  ACCEPT  sigma 2.00  (372s)
+   incumbent {"keep_bias": 1.287, "sig_keep": 1.942, "goal_bias": 2.846, "sig_goal": 2.0, "xt_scale": 2.5, "goal_units": 1.245, "lose_pen": 0.089, "r_get": 1.803, "hyst": 4.214, "sup_open": 0.28, "sup_lane": 0.175, "cover_dist": 14.561, "mark_goal_side": 2.424, "carry_lead": 2.15, "antic_t": 6.447, "la_k": 0.341}
+gen 5  inc 128.3  best mutant 135.0  ACCEPT  sigma 2.00  (394s)
+   incumbent {"keep_bias": 1.287, "sig_keep": 0.8, "goal_bias": 2.846, "sig_goal": 2.0, "xt_scale": 2.5, "goal_units": 1.389, "lose_pen": 0.089, "r_get": 1.803, "hyst": 4.214, "sup_open": 0.28, "sup_lane": 0.175, "cover_dist": 14.561, "mark_goal_side": 1.7, "carry_lead": 2.15, "antic_t": 6.447, "la_k": 0.341}
+gen 6  inc 101.5  best mutant 124.3  ACCEPT  sigma 2.00  (436s)
+   incumbent {"keep_bias": 1.951, "sig_keep": 1.114, "goal_bias": 2.846, "sig_goal": 2.0, "xt_scale": 2.5, "goal_units": 1.389, "lose_pen": 0.089, "r_get": 1.803, "hyst": 5.133, "sup_open": 0.28, "sup_lane": 0.175, "cover_dist": 14.561, "mark_goal_side": 1.7, "carry_lead": 2.121, "antic_t": 6.447, "la_k": 0.341}
+gen 7  inc 130.2  best mutant 114.7  keep  sigma 1.70  (454s)
+   incumbent {"keep_bias": 1.951, "sig_keep": 1.114, "goal_bias": 2.846, "sig_goal": 2.0, "xt_scale": 2.5, "goal_units": 1.389, "lose_pen": 0.089, "r_get": 1.803, "hyst": 5.133, "sup_open": 0.28, "sup_lane": 0.175, "cover_dist": 14.561, "mark_goal_side": 1.7, "carry_lead": 2.121, "antic_t": 6.447, "la_k": 0.341}
+gen 8  inc 112.3  best mutant 127.2  ACCEPT  sigma 2.00  (373s)
+   incumbent {"keep_bias": 1.951, "sig_keep": 4.363, "goal_bias": 2.846, "sig_goal": 2.141, "xt_scale": 2.5, "goal_units": 1.389, "lose_pen": 0.089, "r_get": 1.803, "hyst": 6.0, "sup_open": 0.28, "sup_lane": 0.175, "cover_dist": 14.561, "mark_goal_side": 1.7, "carry_lead": 2.121, "antic_t": 6.447, "la_k": 2.716}
+gen 9  inc 133.1  best mutant 116.3  keep  sigma 1.70  (366s)
+   incumbent {"keep_bias": 1.951, "sig_keep": 4.363, "goal_bias": 2.846, "sig_goal": 2.141, "xt_scale": 2.5, "goal_units": 1.389, "lose_pen": 0.089, "r_get": 1.803, "hyst": 6.0, "sup_open": 0.28, "sup_lane": 0.175, "cover_dist": 14.561, "mark_goal_side": 1.7, "carry_lead": 2.121, "antic_t": 6.447, "la_k": 2.716}

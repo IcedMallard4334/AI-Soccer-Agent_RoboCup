@@ -1,0 +1,4 @@
+== "dom_mode":{"goal_bias":0.0,"shot_range":30.0,"box_on":1}
+ALL            n=120  pts 2.20 -0.03+-0.08  gd 1.26 +0.02+-0.09  gf 1.49 +0.04+-0.07  ga 0.23 +0.03+-0.04  shots 6.52 -0.03+-0.22  passes 18.49 -0.14+-0.50  pass_dist 230.93 +
+== "dom_mode":{"goal_bias":1.0,"shot_range":34.0,"box_on":1}
+ALL            n=120  pts 2.20 +0.14+-0.09  gd 1.26 +0.12+-0.09  gf 1.49 +0.09+-0.07  ga 0.23 -0.03+-0.04  shots 6.52 +0.34+-0.26  passes 18.49 +0.44+-0.53  pass_dist 230.93 +

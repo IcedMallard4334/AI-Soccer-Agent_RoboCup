@@ -1,0 +1,34 @@
+# Course platform: the engine, SDK, docs and launcher come from the course
+# zip and are not mine to redistribute. Unzip the course distribution and
+# drop this repository's folders into it to run anything here.
+/engine/
+/student-sdk/
+/docs/
+/examples/
+/tools/
+/configs/
+/bootstrap.py
+/launch.py
+/START.cmd
+/start.sh
+/VERSION
+/COURSE_README.md
+
+# Working notes that name classmates' teams; anonymized copies are in notes/.
+/plan.md
+/plan2.md
+/lab/ladder_log.md
+
+# Raw ladder data and throwaway analysis scripts (other students' results).
+/lab/_*
+
+# Generated or large: sweep variants, kick/value logs (rebuild with
+# lab/collect.py and lab/vlog.py), recorded replays, caches.
+/lab/variants/
+/lab/kicklog*.json
+/lab/vlog.json
+/replays/
+*.rep
+__pycache__/
+*.pyc
+.claude/

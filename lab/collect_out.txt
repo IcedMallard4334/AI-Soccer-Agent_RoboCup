@@ -1,0 +1,1 @@
+rows 40515 keep 39547 kept rate 0.904 shots 968 goal rate 0.338

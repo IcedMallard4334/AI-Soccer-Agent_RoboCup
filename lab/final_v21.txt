@@ -1,0 +1,37 @@
+=== quality: lab/teams/v21ref.py (no deadline pressure)
+opponent                                   W   D   L    GF   GA   errs fouls
+v1.py                                     19  15   6    45   21      0     0
+v2.py                                     19  14   7    44   25      0     0
+v3.py                                     22  11   7    55   23      0     0
+v4.py                                     19  15   6    36   12      0     0
+v5.py                                     15  20   5    29    8      0     0
+v6ref.py                                  10  23   7    15    9      0     0
+v7ref.py                                  13  13  14    21   18      0     0
+v8ref.py                                  12  22   6    26   15      0     0
+v9ref.py                                   9  20  11    13   13      0     0
+v11ref.py                                  7  26   7    15   15      0     0
+v13ref.py                                  7  26   7    15   15      0     0
+v14ref.py                                 15  21   4    20    8      0     0
+v16ref.py                                  7  23  10    15   19      0     0
+v17ref.py                                  5  24  11     9   16      0     0
+v18ref.py                                  7  27   6    11   10      0     0
+v19ref.py                                  7  27   6    11   10      0     0
+v20ref.py                                  6  29   5     9    8      0     0
+bus.py                                    32   8   0    40    0      0     0
+rusher.py                                 40   0   0   392    0      0     0
+elite                                     40   0   0   108    3      0     0
+tactical                                  40   0   0   220    1      0     0
+TOTAL                                    351 364 125  1149  249   win%=41.8
+decision mean 7.650 ms, max 597.11 ms; wall 2447.5s for 840 matches
+=== real conditions: lab/teams/v21.py (20 ms deadline, 4 workers)
+opponent                                   W   D   L    GF   GA   errs fouls
+v1.py                                     10   6   4    24   11      2     0
+v3.py                                     10   7   3    26   13      9     0
+v9.py                                      6  12   2     7    3      1     0
+v14.py                                     6  12   2    12    6      7     0
+v18.py                                     1  13   6     2    7      0     0
+v20.py                                     6  11   3     7    4      5     0
+bus.py                                    15   5   0    19    0      5     0
+elite                                     19   1   0    48    0      1     0
+TOTAL                                     73  67  20   145   44   win%=45.6
+decision mean 3.310 ms, max 60.36 ms; wall 402.3s for 160 matches

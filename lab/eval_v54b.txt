@@ -1,0 +1,4 @@
+ 553 pts  166- 55- 19  GD +423  {"budget": 1.0, "max_evals": 32}  {'v38cap.py': '11-14-5', 'v48cap.py': '10-15-5', 'bus.py': '22-8-0', 'v3.py': '11-10-9', 'elite': '24-6-0', 'keepball.py': '28-2-0', 'block.py': '30-0-0', 'dribbler.py': '30-0-0'}
+wall 221s, 240 matches
+ 553 pts  168- 49- 23  GD +431  {"budget": 1.0}  {'v38cap.py': '11-14-5', 'v48cap.py': '4-12-14', 'bus.py': '22-8-0', 'v3.py': '17-9-4', 'elite': '24-6-0', 'keepball.py': '30-0-0', 'block.py': '30-0-0', 'dribbler.py': '30-0-0'}
+wall 141s, 240 matches

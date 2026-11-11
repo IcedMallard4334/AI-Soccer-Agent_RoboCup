@@ -1,0 +1,18 @@
+{
+ "keep_bias": 1.951,
+ "sig_keep": 4.363,
+ "goal_bias": 2.846,
+ "sig_goal": 2.141,
+ "xt_scale": 2.5,
+ "goal_units": 1.389,
+ "lose_pen": 0.089,
+ "r_get": 1.803,
+ "hyst": 6.0,
+ "sup_open": 0.28,
+ "sup_lane": 0.175,
+ "cover_dist": 14.561,
+ "mark_goal_side": 1.7,
+ "carry_lead": 2.121,
+ "antic_t": 6.447,
+ "la_k": 2.716
+}

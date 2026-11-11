@@ -1,0 +1,4 @@
+opponent                                   W   D   L    GF   GA   errs fouls
+v1.py                                     38  29  33    93   99      0     0
+TOTAL                                     38  29  33    93   99   win%=38.0
+decision mean 0.808 ms, max 182.73 ms; wall 84.5s for 100 matches

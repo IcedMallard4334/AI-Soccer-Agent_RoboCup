@@ -1,0 +1,2 @@
+ 264 pts   72- 48-  0  GD  +90  {"budget": 1.0, "max_evals": 32}  {'midtable.py': '29-31-0', 'bus.py': '43-17-0'}
+wall 144s, 120 matches

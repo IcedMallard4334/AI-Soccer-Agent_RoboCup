@@ -1,0 +1,3 @@
+ 122 pts   21- 59- 40  GD  -14  {"budget": 1.0, "max_evals": 40}  {'v23ref.py': '3-24-13', 'v18ref.py': '3-22-15', 'v3.py': '15-13-12'}
+  50 pts    4- 38- 78  GD -116  {"budget": 1.0, "max_evals": 24}  {'v23ref.py': '1-15-24', 'v18ref.py': '1-12-27', 'v3.py': '2-11-27'}
+wall 570s, 240 matches

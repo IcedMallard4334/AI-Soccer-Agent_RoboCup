@@ -1,0 +1,16 @@
+ 297 pts   94- 15- 11  GD +269  {"budget": 1.0, "sup_open": 0.15}  {'v9ref.py': '15-14-11', 'bus.py': '40-0-0', 'elite': '39-1-0'}
+ 292 pts   90- 22-  8  GD +251  {"budget": 1.0, "cover_dist": 11.0}  {'v9ref.py': '12-21-7', 'bus.py': '39-1-0', 'elite': '39-0-1'}
+ 291 pts   93- 12- 15  GD +244  {"budget": 1.0, "mark_goal_side": 1.0}  {'v9ref.py': '14-11-15', 'bus.py': '40-0-0', 'elite': '39-1-0'}
+ 291 pts   88- 27-  5  GD +236  {"budget": 1.0, "pos_prog": 0.15}  {'v9ref.py': '12-23-5', 'bus.py': '38-2-0', 'elite': '38-2-0'}
+ 290 pts   88- 26-  6  GD +250  {"budget": 1.0, "mark_ball_frac": 0.0}  {'v9ref.py': '9-25-6', 'bus.py': '39-1-0', 'elite': '40-0-0'}
+ 288 pts   88- 24-  8  GD +274  {"budget": 1.0, "mark_goal_side": 4.0}  {'v9ref.py': '9-23-8', 'bus.py': '40-0-0', 'elite': '39-1-0'}
+ 287 pts   87- 26-  7  GD +236  {"budget": 1.0, "rear_depth": 30.0}  {'v9ref.py': '8-25-7', 'bus.py': '40-0-0', 'elite': '39-1-0'}
+ 285 pts   86- 27-  7  GD +238  {"budget": 1.0}  {'v9ref.py': '7-26-7', 'bus.py': '40-0-0', 'elite': '39-1-0'}
+ 284 pts   87- 23- 10  GD +251  {"budget": 1.0, "hyst": 4.0}  {'v9ref.py': '8-22-10', 'bus.py': '39-1-0', 'elite': '40-0-0'}
+ 284 pts   88- 20- 12  GD +234  {"budget": 1.0, "cover_dist": 4.0}  {'v9ref.py': '10-18-12', 'bus.py': '40-0-0', 'elite': '38-2-0'}
+ 279 pts   87- 18- 15  GD +246  {"budget": 1.0, "mark_ball_frac": 0.6}  {'v9ref.py': '8-17-15', 'bus.py': '39-1-0', 'elite': '40-0-0'}
+ 276 pts   84- 24- 12  GD +255  {"budget": 1.0, "rear_depth": 14.0}  {'v9ref.py': '7-21-12', 'bus.py': '39-1-0', 'elite': '38-2-0'}
+ 273 pts   82- 27- 11  GD +244  {"budget": 1.0, "hyst": 0.0}  {'v9ref.py': '5-24-11', 'bus.py': '40-0-0', 'elite': '37-3-0'}
+ 273 pts   84- 21- 15  GD +231  {"budget": 1.0, "sup_lane": 0.3}  {'v9ref.py': '5-20-15', 'bus.py': '39-1-0', 'elite': '40-0-0'}
+ 273 pts   84- 21- 15  GD +227  {"budget": 1.0, "pos_prog": 0.6}  {'v9ref.py': '7-18-15', 'bus.py': '37-3-0', 'elite': '40-0-0'}
+wall 1527s, 1800 matches

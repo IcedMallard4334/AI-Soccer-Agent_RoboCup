@@ -1,0 +1,12 @@
+ 113 pts   24- 41- 15  GD   +9  {"budget": 1.0, "keep_bias": 0.0}  {'v6ref.py': '24-41-15'}
+ 105 pts   20- 45- 15  GD   +9  {"budget": 1.0, "keep_bias": 3.5}  {'v6ref.py': '20-45-15'}
+ 101 pts   20- 41- 19  GD   +1  {"budget": 1.0, "r_get": 2.1}  {'v6ref.py': '20-41-19'}
+ 100 pts   21- 37- 22  GD   +3  {"budget": 1.0, "r_get": 1.6}  {'v6ref.py': '21-37-22'}
+  92 pts   16- 44- 20  GD   -2  {"budget": 1.0}  {'v6ref.py': '16-44-20'}
+  92 pts   16- 44- 20  GD   -2  {"budget": 1.0, "goal_bias": 2.0}  {'v6ref.py': '16-44-20'}
+  92 pts   16- 44- 20  GD   -2  {"budget": 1.0, "goal_val": 2.5}  {'v6ref.py': '16-44-20'}
+  91 pts   18- 37- 25  GD   -7  {"budget": 1.0, "react": 1}  {'v6ref.py': '18-37-25'}
+  90 pts   17- 39- 24  GD   -5  {"budget": 1.0, "goal_bias": -1.0}  {'v6ref.py': '17-39-24'}
+  89 pts   16- 41- 23  GD   -9  {"budget": 1.0, "react": 2}  {'v6ref.py': '16-41-23'}
+  88 pts   15- 43- 22  GD   -5  {"budget": 1.0, "goal_val": 6.0}  {'v6ref.py': '15-43-22'}
+wall 1156s, 880 matches

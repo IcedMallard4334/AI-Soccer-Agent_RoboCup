@@ -1,0 +1,2 @@
+ 346 pts   79-109- 52  GD  +50  {"keep_bias": 1.951, "sig_keep": 4.363, "goal_bias": 2.846, "sig_goal": 2.141, "xt_scale": 2.5, "goal_units": 1.389, "lose_pen": 0.089, "r_get": 1.803, "hyst": 6.0, "sup_open": 0.28, "sup_lane": 0.175, "cover_dist": 14.561, "mark_goal_side": 1.7, "carry_lead": 2.121, "antic_t": 6.447, "la_k": 2.716, "budget": 1.0}  {'v19ref.py': '8-16-6', 'v18ref.py': '8-16-6', 'v16ref.py': '12-13-5', 'v14ref.py': '8-18-4', 'v9ref.py': '5-18-7', 'v3.py': '14-5-11', 'v7ref.py': '12-13-5', 'v1.py': '12-10-8'}
+wall 258s, 240 matches

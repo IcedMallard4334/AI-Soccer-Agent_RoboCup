@@ -1,0 +1,25 @@
+v61.py vs sty_passer.py, 20 matches: W-D-L 8-10-2, 0-0 30%
+us   poss 49.2%  kicks/m  96.3  soft   24%  shots/m  2.3  goals/m 0.65  kicks/poss  4.5  long poss   63%  regain 184.7 ticks
+     passes/m  20.1  pass dist/m  247.5  completion   34%
+them poss 50.8%  kicks/m  91.5  soft   17%  shots/m  3.0  goals/m 0.30  kicks/poss  4.4  long poss   59%  regain 205.8 ticks
+     passes/m  20.7  pass dist/m  266.2  completion   35%
+v61.py vs sty_shooter.py, 20 matches: W-D-L 5-9-6, 0-0 35%
+us   poss 51.4%  kicks/m 106.9  soft   23%  shots/m  2.5  goals/m 0.55  kicks/poss  4.4  long poss   57%  regain 165.8 ticks
+     passes/m  22.0  pass dist/m  258.7  completion   32%
+them poss 48.6%  kicks/m  92.5  soft   20%  shots/m  2.4  goals/m 0.55  kicks/poss  3.9  long poss   53%  regain 170.1 ticks
+     passes/m  18.2  pass dist/m  223.8  completion   30%
+v61.py vs sty_direct.py, 20 matches: W-D-L 3-8-9, 0-0 20%
+us   poss 45.4%  kicks/m  88.0  soft   20%  shots/m  2.5  goals/m 0.40  kicks/poss  3.9  long poss   50%  regain 153.3 ticks
+     passes/m  16.5  pass dist/m  196.8  completion   29%
+them poss 54.6%  kicks/m 107.1  soft   19%  shots/m  2.9  goals/m 0.80  kicks/poss  4.6  long poss   59%  regain 207.5 ticks
+     passes/m  25.2  pass dist/m  284.8  completion   37%
+v61.py vs sty_press.py, 20 matches: W-D-L 8-7-5, 0-0 20%
+us   poss 58.2%  kicks/m  94.0  soft   19%  shots/m  2.5  goals/m 0.75  kicks/poss  4.0  long poss   61%  regain 199.4 ticks
+     passes/m  19.6  pass dist/m  223.8  completion   31%
+them poss 41.8%  kicks/m  93.2  soft   21%  shots/m  3.0  goals/m 0.45  kicks/poss  4.0  long poss   52%  regain 149.2 ticks
+     passes/m  20.1  pass dist/m  211.7  completion   34%
+v61.py vs sty_counter.py, 20 matches: W-D-L 2-12-6, 0-0 50%
+us   poss 56.6%  kicks/m  89.8  soft   22%  shots/m  2.5  goals/m 0.20  kicks/poss  3.9  long poss   67%  regain 172.6 ticks
+     passes/m  17.2  pass dist/m  207.2  completion   31%
+them poss 43.4%  kicks/m  86.8  soft   15%  shots/m  2.5  goals/m 0.50  kicks/poss  3.7  long poss   57%  regain 175.8 ticks
+     passes/m  22.1  pass dist/m  254.2  completion   36%
