@@ -1,4 +1,4 @@
-# AI Soccer Agent — Victor_Hyginus
+# AI Soccer Agent
 
 A 5-a-side soccer team written in pure Python (standard library only) for the
 Wits **Soccer Agent Challenge**: every team in the class plays every other
@@ -9,8 +9,6 @@ The whole team is one file, [`my-team/team.py`](my-team/team.py) (about 2,400
 lines). Everything else in this repository is the lab that produced it:
 versions v1 to v68, a benchmarking and paired-testing harness, sparring
 opponents, and the notes on what was tried and what it measured.
-
-Author: Victor Hyginus
 
 ---
 
